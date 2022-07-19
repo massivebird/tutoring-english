@@ -45,7 +45,7 @@
 
 Appropriate for all types of conversation.
 
-   + Sophisticated (try finding etymology)
+   + sophisticated (try finding etymology)
    + Vice versa
    + All around
    + Worth a shot
@@ -72,13 +72,13 @@ Appropriate for all types of conversation.
       + "Amanda was invited to the party, but she didn't show up. I guess it __slipped her mind.__"
       + "I planned on doing the dishes tonight, but it __slipped my mind.__ I'll do them tomorrow."
 
-#### To get a move on
+#### to get a move on
    + Best translates to: _to leave_
    + Often used in an imperative way (as a command)
    + Example sentences:
       + "The old man was upset that the kids were on his lawn, so he told them to __get a move on__."
 
-#### To have a soft spot
+#### to have a soft spot
    + Best translates to: _to like {something}_
    + Implies that {something} stands out among other items of the same type or group
    + Could also imply that {something} is emotionally important to the speaker
