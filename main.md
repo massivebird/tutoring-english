@@ -45,14 +45,31 @@
 
 Appropriate for all types of conversation.
 
-   + sophisticated (try finding etymology)
-   + Vice versa
-   + All around
-   + Worth a shot
-   + [not] in the mood
-   + I can't stand this
-   + Look it up
-   + To be pissed
+   + all around
+   + worth a shot
+
+#### {someone} can't stand {something}
+   + Translates to: _to dislike {something}, to be annoyed by {something}_
+   + Example sentences:
+      + "I __can't stand__ the winter. It gets way too cold."
+      + "I usually love fruit, but for some reason, I __can't stand__ bananas."
+      + "I __can't stand__ when my cat knocks everything off my desk."
+
+#### vice versa
+   + Translates to: _and the other way around_
+   + Implies that the previous statement is still true when reversing the stated action
+   + Example sentences:
+      + "It takes 20 minutes to drive from the park to the grocery store, and __vice versa__."
+         + Implies: "It takes 20 minutes to drive from the grocery store to the park."
+      + "Mike hates my dog, and vice versa."
+         + Implies: "My dog hates Mike."
+
+#### to look up {something}
+   + Translates to: _to search for {something} on the internet_
+   + You can also "look it up," where "it" would be the topic of conversation.
+   + Example sentences:
+      + "When I read a word I don't understand, I always __look up__ the definition."
+      + "If you don't know how to fix your bike, try __looking it up__. You can figure it out."
 
 #### to show up
    + Translates to:
@@ -86,15 +103,49 @@ Appropriate for all types of conversation.
       + "I usually don't like fruit, but I __have a soft spot__ for apples."
       + "I __have a soft spot__ for pepperoni pizza since I ate it a lot as a kid."
 
+#### to be pissed off, to piss someone off
+   + Translates to: _to make upset/mad/annoyed_
+   + You CAN omit/remove "off" to say "to be pissed," but you CANNOT do the same to say "to piss someone."
+   + Example sentences:
+      + "I think I accidentally deleted all of my notes for school. I'm so __pissed__."
+      + "I logged onto his computer and deleted all of his school notes. That definitely __pissed him off__."
+
 ## Comfortable
 
-Casual language. Widely understood.
+Casual language. Widely understood. Less appropriate for formal conversations.
 
-   + That's crazy
-   + My jam
+#### to be {someone}'s jam
+   + Translates to: _to like/love_
+   + Comes from "jam" meaning _a song_. So something "being your jam" implies that you love it as if it were your favorite song.
+   + Example sentences:
+      + "Programming __is my jam__! I do it every day."
+      + "This song is totally __my jam__. I've been listening to it for three hours."
+
+#### crazy, sick (in a good way)
+   + Translates to: _to be unbelievable (either wonderfully or terribly)_
+   + Yes, all of these words normally imply that something is undesirable. However, they _can_ be used to express the opposite.
+   + How to tell if someone uses these words in a good or bad way:
+      + the speaker's tone (sounds angry vs. excited)
+      + the speaker's tendencies (if they usually use these words in one particular way)
+      + asking them "in a good way?" or "in a bad way?"
+  + Example sentences:
+     + "Wow, my favorite yogurt is on sale! __That's sick__!"
+     + "I haven't heard this song in ten years. __That's crazy__ how long ago that was."
+     + ""
+
    + That's sick (and sickening is just bad)
-   + I'm down
-   + It's bananas
+
+#### to be in the mood, to be down
+   + Translates to: _to be willing {to do something}, to want {something}_
+   + You can also be "not in the mood" or "not down" which means you do _not_ want to do the thing in question.
+   + Example sentences:
+      + "I'm __not in the mood__ to go outside today. I think I'll just stay in bed."
+      + "Jennifer said she's __not in the mood__, so I don't think she's going to come to the party."
+      + "__I'm down__ to go to the restaurant as long as I can order whatever I want."
+
+#### to be bananas
+   + Translates to: _to be unbelievable_
+   + Similar
 
 ## Exotic
 
