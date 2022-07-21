@@ -144,7 +144,6 @@ Casual language. Widely understood. Less appropriate for formal conversations.
 
 #### to be bananas
    + Translates to: _to be unbelievable_
-   + Similar
 
 ## Exotic
 
