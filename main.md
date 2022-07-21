@@ -131,7 +131,6 @@ Casual language. Widely understood. Less appropriate for formal conversations.
   + Example sentences:
      + "Wow, my favorite yogurt is on sale! __That's sick__!"
      + "I haven't heard this song in ten years. __That's crazy__ how long ago that was."
-     + ""
 
    + That's sick (and sickening is just bad)
 
