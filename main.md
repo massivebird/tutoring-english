@@ -110,6 +110,13 @@ Appropriate for all types of conversation.
       + "I think I accidentally deleted all of my notes for school. I'm so __pissed__."
       + "I logged onto his computer and deleted all of his school notes. That definitely __pissed him off__."
 
+#### to miss out
+   + Translates to: _to be unable to experience something good_
+   + Example sentences:
+      + "All of my friends are going to the movies tonight, but I'm too busy with homework. I'm really __missing out__."
+      + "Kevin decided to quit his job today. It's a shame since they paid him so much. He's __missing out__ on a lot of money."
+      + "Brenda said she's too busy to come to the party tomorrow. She doesn't know what she's __missing out__ on."
+
 ## Comfortable
 
 Casual language. Widely understood. Less appropriate for formal conversations.
