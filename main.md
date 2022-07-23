@@ -112,6 +112,7 @@ Appropriate for all types of conversation.
 
 #### to miss out
    + Translates to: _to be unable to experience something good_
+   + When someone _misses out on {something}_, they are not gaining the benefits from {something}
    + Example sentences:
       + "All of my friends are going to the movies tonight, but I'm too busy with homework. I'm really __missing out__."
       + "Kevin decided to quit his job today. It's a shame since they paid him so much. He's __missing out__ on a lot of money."
