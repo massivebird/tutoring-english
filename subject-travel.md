@@ -27,6 +27,7 @@
          + Speaking: "My dog's been running around."
       + (3) "She __has been__ doing homework for three hours."
          + She started doing homework three hours ago and has not finished yet.
+      + (3.1) "Ashley is sleeping. She __has been__ working all day, so she's very tired."
       + (4) "Henry hasn't slept in three full days. I think he __has gone__ crazy."
          + Henry is becoming crazy as a result of his lack of sleep.
          + Speaking: "I think he's gone crazy."
