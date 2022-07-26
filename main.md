@@ -39,6 +39,13 @@
       + "My college professor is extremely __sophisticated__. Sometimes I am overwhelmed by how intelligent he is."
       + "Cell phones are easy to use, but the technology inside them is highly __sophisticated__."
 
+#### pros and cons [plural noun]
+   + [Click to view "pros and cons" in the dictionary](https://www.dictionary.com/browse/pros-and-cons)
+      + Friendly definition: ___Favorable and unfavorable characteristics.___ __Advantages and disadvantages.__
+   + The pros "outweigh" the cons when something's favorable characteristics are more significant than its unfavorable ones, and vice versa.
+   + Example sentences:
+      + "When making an expensive purchase, you should always consider the __pros and cons__ to evaluate if it's worth the money."
+
 # Phrases / Idioms
 
 ## Fundamental
@@ -95,7 +102,7 @@ Appropriate for all types of conversation.
    + Example sentences:
       + "The old man was upset that the kids were on his lawn, so he told them to __get a move on__."
 
-#### to have a soft spot
+#### to have a soft spot [verb]
    + Best translates to: _to like {something}_
    + Implies that {something} stands out among other items of the same type or group
    + Could also imply that {something} is emotionally important to the speaker
@@ -103,20 +110,28 @@ Appropriate for all types of conversation.
       + "I usually don't like fruit, but I __have a soft spot__ for apples."
       + "I __have a soft spot__ for pepperoni pizza since I ate it a lot as a kid."
 
-#### to be pissed off, to piss someone off
+#### to be pissed off, to piss someone off [verb]
    + Translates to: _to make upset/mad/annoyed_
    + You CAN omit/remove "off" to say "to be pissed," but you CANNOT do the same to say "to piss someone."
    + Example sentences:
       + "I think I accidentally deleted all of my notes for school. I'm so __pissed__."
       + "I logged onto his computer and deleted all of his school notes. That definitely __pissed him off__."
 
-#### to miss out
+#### to miss out [verb]
    + Translates to: _to be unable to experience something good_
    + When someone _misses out on {something}_, they are not gaining the benefits from {something}
    + Example sentences:
       + "All of my friends are going to the movies tonight, but I'm too busy with homework. I'm really __missing out__."
       + "Kevin decided to quit his job today. It's a shame since they paid him so much. He's __missing out__ on a lot of money."
       + "Brenda said she's too busy to come to the party tomorrow. She doesn't know what she's __missing out__ on."
+
+#### to take down, to tear down [verb]
+   + Translates to: _to take apart (something large), to remove_
+      + _to tear_ is pronounced _tare_ (the letter _t_ followed by the word _air_)
+      + This is NOT tear [noun], pronounced _tier_ (the letter _t_ followed by the word _ear_)
+   + Example sentences:
+      + "I made an embarrassing spelling mistake in my social media post, so I __took it down__."
+      + "A construction company is finally __tearing down__ the abandoned school next week."
 
 ## Comfortable
 
