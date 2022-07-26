@@ -41,7 +41,7 @@
 
 #### pros and cons [plural noun]
    + [Click to view "pros and cons" in the dictionary](https://www.dictionary.com/browse/pros-and-cons)
-      + Friendly definition: ___Favorable and unfavorable characteristics.___ __Advantages and disadvantages.__
+      + Friendly definition: ___Favorable and unfavorable characteristics.___ _Advantages and disadvantages._
    + The pros "outweigh" the cons when something's favorable characteristics are more significant than its unfavorable ones, and vice versa.
    + Example sentences:
       + "When making an expensive purchase, you should always consider the __pros and cons__ to evaluate if it's worth the money."
