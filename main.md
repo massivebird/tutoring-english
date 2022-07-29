@@ -133,6 +133,76 @@ Appropriate for all types of conversation.
       + "I made an embarrassing spelling mistake in my social media post, so I __took it down__."
       + "A construction company is finally __tearing down__ the abandoned school next week."
 
+#### to come out [verb]
+   + Translates to: _to become evident, to become publicly visible_
+   + _to come out_ can be used to declare one's sexual orientation/identity
+   + Example sentences:
+      + "I've been waiting for my sister to __come out__ of her room for two hours, but she's still in there."
+      + "My favorite celebrity just __came out__ as transgender."
+
+#### to come off [verb]
+   + Translates to:
+      + (1) _to be removed_
+      + (2) _to seem_
+   + Example sentences:
+      + (1) "The poster didn't __come off__ the wall very well. It ruined the paint underneath."
+      + (2) "You met Spencer last night, right? Did he __come off__ as weird to you?"
+
+#### to turn out [verb]
+   + Translates to: _to result, to end up, to become_
+   + "Turns out" or "as it turns out" can be used as a conjunction to mean _in fact, actually, unexpectedly_
+   + Example sentences:
+      + "I was dreading today's math exam, but it actually __turned out__ fine."
+      + "I walked for an hour to the restaurant. __Turns out__, it wasn't even open."
+
+#### to take out [verb]
+   + Translates to:
+      + (1) _to remove_
+      + (2) _to find emotional release for, to vent_
+      + (3) _to eliminate, to kill_
+      + (4) _to obtain (as in a financial/legal document)_
+      + (5) _to provide entertainment or food for someone_
+   + Example sentences:
+      + (1) "It's my turn to do the dishes and __take out__ the trash today."
+      + (2) "My neighbor gets so upset that he stands outside and screams. He needs to __take out__ his anger in a less annoying way."
+      + (3) "I'm pretty sure Frank stole one of my pencils. I think it was him, anyway. I want you to __take him out__."
+      + (4) "Her parents __took out__ a massive loan to buy their beachfront mansion."
+      + (5) "After class, she's going to __take me out__ to the movies."
+
+#### on the spot [idiom]
+   + Translates to:
+      + (1) ___immediately,___ _in the moment_
+      + (2) "to put [person] on the spot" means _to force [person] to say or do something_
+   + This is doing something _so fast_ to someone that they doesn't even have a chance to move _from the spot_ they are in.
+   + Example sentences:
+      + (1) "The police spotted a man matching the criminal's description and arrested him __on the spot.__"
+      + (1) "My boss was so impressed by my performance that he promoted me __on the spot__!"
+      + (2) "I can't believe that guy proposed to her in front of thousands of people. He totally __put her on the spot.__"
+
+#### too good to be true [idiom]
+   + Translates to: _so good that it is difficult to believe. Unbelievably good._
+   + You can use this to express...
+      + Joy (in receiving a gift you think you do not deserve)
+      + Suspicion (in receiving an offer that is suspiciously good, perhaps fake)
+   + Example sentences:
+      + "We were supposed to have an exam in class today, but the school had to shut down because of all the snow. This is __too good to be true!__"
+      + "This email claims I will receive a million dollars if I give this guy five thousand. It sounds __too good to be true__."
+
+#### one step at a time [idiom]
+   + Translates to: _slowly and carefully. Doing a little at a time_
+   + If a task is a set of stairs, it might be better to climb _a step at a time_ than to complete it in a single motion.
+   + Example sentences:
+      + "My teacher definitely rushes through his lectures. He really needs to take it a __step at a time.__"
+      + "My group project is going terribly. We should have taken it __one step at a time__ instead of doing the entire thing in one night."
+
+#### sense of humor, sense of [characteristic]
+   + Translates to: _the ability to understand funny things_
+   + NOTE: sense of [characteristic] means _the ability to display [characteristic]_.
+      + In this case, displaying humor means to laugh or to tell jokes.
+   + Example sentences:
+      + "Bill is so boring. He has no __sense of humor.__ He's never laughed at my jokes."
+      + "There is nothing wrong with Bill. No one has ever laughed at your jokes. Your __sense of humor__ is terrible."
+
 ## Comfortable
 
 Casual language. Widely understood. Less appropriate for formal conversations.
