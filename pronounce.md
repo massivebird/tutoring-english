@@ -2,4 +2,5 @@
 + exotic (eggs-ODD-ick)
 + impulse (IMM-pulse)
 + ridiculous (rid-DICK-you-liss)
-+ strengthen (STRENG-thin, where STRENG is "string" with an "e")
++ strengthen (STREN-thin)
++ characteristic (care-ick-turr-ISS-tick)
