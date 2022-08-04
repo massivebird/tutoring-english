@@ -46,6 +46,16 @@
    + Example sentences:
       + "When making an expensive purchase, you should always consider the __pros and cons__ to evaluate if it's worth the money."
 
+#### to nag [verb]
+   + [Click to view "to nag" in the dictionary](https://www.merriam-webster.com/dictionary/nagging)
+      + Friendly definition:
+         + (1) _to annoy with continuous complaining_
+         + (2) _to persistently cause anxiety or discomfort_
+   + Example sentences:
+      + (1) "Ever since I made a mistake at work yesterday, my boss has been __nagging__ about everything I do."
+      + (2) "I can't help but feel like I forgot to do something important. It's been __nagging__ at me lately."
+      + (2) "I can't focus on my homework. I have a __nagging__ pain in my leg that won't go away."
+
 # Phrases / Idioms
 
 ## Fundamental
@@ -202,6 +212,32 @@ Appropriate for all types of conversation.
    + Example sentences:
       + "Bill is so boring. He has no __sense of humor.__ He's never laughed at my jokes."
       + "There is nothing wrong with Bill. No one has ever laughed at your jokes. Your __sense of humor__ is terrible."
+
+#### to keep up [verb]
+   + Translates to:
+      + (1) _to persist, to perservere_
+      + (2) _to be informed, to inform oneself_
+   + Example sentences:
+      + (1) "I have tried some advanced math courses, but most were so fast that I couldn't __keep up__."
+      + (1) "My boss noticed how much I've been working lately and told me to __keep up__ the good work."
+      + (2) "I haven't been __keeping up__ with the news lately. It's all too depressing."
+      + (2) "I don't __keep up__ with Andrew anymore. We stopped talking months ago."
+         + Keeping up _with a person_ is to know what they've been doing lately.
+
+#### to keep on [verb]
+   + Translates to: _to continue happening, to continue doing something_
+   + _to keep on [verb]_ is often shortened to _to keep [verb]_
+   + Example sentences:
+      + "He __kept on__ talking for hours. I thought he would never stop."
+      + "I don't want to get out of bed. I just want to __keep__ sleeping."
+      + "I tried yelling to my friend, but he didn't hear me. He just __kept__ walking away."
+
+#### to slip by [verb]
+   + Translates to: _to move quietly and carefully_
+   + Usually describes something that nearly fails or gets caught
+   + Example sentences:
+      + "I nearly failed my economics course, but thanks to the final exam, I managed to __slip by__ with a passing grade."
+      + "My parents said I couldn't go to the party. I had to __slip by__ them and sneak out of the house."
 
 ## Comfortable
 
