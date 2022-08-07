@@ -24,7 +24,7 @@
 #### unfortunate [adjective] and unlucky [adjective] 
    + [Click to view "unfortunate" in the dictionary](https://www.dictionary.com/browse/unfortunate)
       + Friendly definition: ___Suffering___ _from bad luck. Unfavorable. __Sad__._
-   + Again, "unlucky" is more casual and should not be used to describe potentially disasterous events where someone suffers.
+   + Again, "unlucky" is more casual and should not be used to describe potentially disastrous events where someone suffers.
    + "Unfortunately" can be used to introduce an issue or bad news.
    + Example sentences:
       + "Our team would have won the hockey game if we didn't get so __unlucky__."
@@ -56,13 +56,65 @@
       + (2) "I can't help but feel like I forgot to do something important. It's been __nagging__ at me lately."
       + (2) "I can't focus on my homework. I have a __nagging__ pain in my leg that won't go away."
 
+#### to rally [verb]
+   + [Click to view "rally" in the dictionary](https://www.dictionary.com/browse/rally)
+      + Friendly definition:
+         + (1) _to come together for a common effort_
+         + (2) _to call upon, to bring together_
+   + A rally [noun] is a group of people coming together for a common cause.
+   + Example sentences:
+      + (1) "The people __rallied__ in the streets because they were dissatisfied with the local government."
+      + (2) "Kamala noticed that the group project was due soon, so she __rallied__ her group members together to work on it."
+
+#### boo [interjection]
+   + [Click to view "boo" in the dictionary](https://www.dictionary.com/browse/boo)
+      + Used in two situations:
+         + Expressing dissatisfaction with a public performance
+         + Scaring someone
+   + _to boo_ someone is the opposite of _to cheer, to encourage_.
+   + Pronunciation:
+      + _booing_ is pronounced (BOO-ing)
+      + _booed_ is pronounced (bood)
+   + Example sentences:
+      + "She appeared suddenly and yelled '__Boo!__' It scared me to death."
+      + "I think the entire band was drunk or something. They were so bad that the crowd __booed__ them off the stage."
+
+#### simile [noun]
+   + [Click to view "simile" in the dictionary](https://www.dictionary.com/browse/simile)
+      + Friendly definition:
+         + A figure of speech in which two things are compared with the words "like" or "as"
+   + Examples of similes:
+      + "She got so embarrassed, __her face got red like a strawberry__."
+      + "No wonder she's famous. __Her voice is as beautiful as an angel's.__"
+
+#### metaphor [noun]
+   + [Click to view "metaphor" in the dictionary](https://www.dictionary.com/browse/metaphor)
+      + Friendly definition:
+         + A figure of speech in which two things are compared directly without "like" or "as"
+   + Examples of metaphors:
+      + "I'm so forgetful. __I'm a goldfish.__"
+         + This is in reference to a goldfish's poor memory.
+      + "Basketball players are insanely tall. __They're basically skyscrapers__ compared to me."
+
+#### setback [noun]
+   + [Click to view "setback" in the dictionary](https://www.dictionary.com/browse/setback)
+      + Friendly definition: _a defeat, an obstacle_
+   + Example sentences:
+      + "Letting myself eat an entire box of cookies has been a major __setback__ to my weight loss."
+      + "The team losing their star player is definitely going to be a __setback__. They have no chance of winning now."
+
 # Phrases / Idioms
 
 ## Fundamental
 
 Appropriate for all types of conversation.
 
-   + all around
+#### all-around [adjective]
+   + Translates to: _complete, utter_
+   + Example sentences:
+      + "The movie was an __all-around__ disaster. Everything about it was awful. There was nothing redeemable about it."
+      + "The soccer team played an __all-around__ perfect match. They never lost possession of the ball and scored every shot."
+
    + worth a shot
 
 #### {someone} can't stand {something}
@@ -179,7 +231,7 @@ Appropriate for all types of conversation.
       + (4) "Her parents __took out__ a massive loan to buy their beachfront mansion."
       + (5) "After class, she's going to __take me out__ to the movies."
 
-#### on the spot [idiom]
+#### on the spot
    + Translates to:
       + (1) ___immediately,___ _in the moment_
       + (2) "to put [person] on the spot" means _to force [person] to say or do something_
@@ -239,6 +291,51 @@ Appropriate for all types of conversation.
       + "I nearly failed my economics course, but thanks to the final exam, I managed to __slip by__ with a passing grade."
       + "My parents said I couldn't go to the party. I had to __slip by__ them and sneak out of the house."
 
+#### break a leg [idiom]
+   + Translates to: _good luck, do your best_
+   + IMPORTANT: anything other than "break a leg" is interpreted literally as breaking a leg bone
+      + "I hope you break your leg" -> I hope you literally break one of your leg bones
+      + "Go break your legs" -> Go break both of your legs
+         + Could actually be a humorous way to wish someone good luck since it's so similar to the original phrase
+   + Example sentences:
+      + "My friend is about to give speech in front of thousands of people. The best advice I could give him was to __break a leg__."
+      + "My friend knew I was nervous to go on stage and told me to __break a leg__. That was nice of her to say."
+
+#### to spill the beans [verb]
+   + Translates to: _to reveal a secret_
+   + Example sentences:
+      + "I know you're hiding something. Are you planning a surprise birthday party for me? __Spill the beans__ already!"
+      + "Dude, she told me to __spill the beans__ about the party. How could she tell I was hiding something?"
+
+#### to look up to [verb]
+   + Translates to: _to admire_
+   + Example sentences:
+      + "My professors are all great role models. I __look up to them__. Maybe I can be as smart as they are someday."
+      + "My younger sister __looks up to__ the strangest people. I'm pretty sure they all have extensive criminal records."
+
+#### to look up [verb] (not to literally gaze upward)
+   + Translates to: _to search for on the internet, to Google_
+   + Specific to using the internet
+   + Example sentences:
+      + "I forgot what this long word means. I have to __look up__ the definition."
+      + "I don't know how to fix a vacuum. Don't ask me. __Look it up__."
+
+#### to look for [verb]
+   + Translates to: _to search for, to try to find_
+   + You can _look for_ something anywhere, in real life or on the internet.
+   + Example sentences:
+      + "Can you help me __look for__ my glasses? I literally can't see anything."
+      + "I have to help my brother __look for__ school supplies at the store later."
+      + "I'm at the library right now. I'm __looking for__ a book about bugs."
+
+#### to go down in flames [verb]
+   + Translates to: _to be utterly ruined, to fail spectacularly_
+   + Example sentences:
+      + "People loved him until he posted all those terrible things on Twitter. His career has been __going down in flames__ since then."
+      + "The government __went down in flames__ — both literally and figuratively — when its citizens set fire to the capitol building."
+         + Literally: a capitol building was destroyed by fire
+         + Figuratively: the government as a system was destroyed
+
 ## Comfortable
 
 Casual language. Widely understood. Less appropriate for formal conversations.
@@ -261,8 +358,6 @@ Casual language. Widely understood. Less appropriate for formal conversations.
      + "Wow, my favorite yogurt is on sale! __That's sick__!"
      + "I haven't heard this song in ten years. __That's crazy__ how long ago that was."
 
-   + That's sick (and sickening is just bad)
-
 #### to be in the mood, to be down
    + Translates to: _to be willing {to do something}, to want {something}_
    + You can also be "not in the mood" or "not down" which means you do _not_ want to do the thing in question.
@@ -273,9 +368,63 @@ Casual language. Widely understood. Less appropriate for formal conversations.
 
 #### to be bananas
    + Translates to: _to be unbelievable_
+   + Example sentences:
+      + "I can't believe I have to pay twenty dollars for three strawberries. This is __bananas.__"
+      + "Jonathan walked into the kitchen and started making strange animal noises. He's gone totally __bananas.__"
+
+#### to chicken out [verb]
+   + Translates to: _to quit due to fear or anxiety_
+   + Calling someone _chicken_ [adjective] is exactly the same meaning
+   + Often used to antagonize others
+   + Example sentences:
+      + "You're not going to drive one hundred miles per hour through this neighborhood? What are you, __chicken__?"
+      + "No, I'm not __chickening out.__ I refuse because it's very dangerous and illegal."
 
 ## Exotic
 
-Very rare.
+Rare, but usually acceptable in casual conversation
 
-   + Take a deuce
+#### cat got your tongue [idiom]
+   + Used toward someone who suddenly struggles to speak
+   + Mostly used for verbal communication. Doesn't really make sense to describe someone who takes a while to text back
+   + Example sentences:
+      + "Michelle is pissed at her boyfriend. Apparently when she accused him of cheating on her, a __cat got his tongue__. She thinks his hesitation means he's hiding something."
+
+#### to take a deuce [verb]
+   + Translates to: _to poop_
+   + Example sentences:
+      + "I'm not ready to leave yet. I have to __take a deuce.__"
+      + "Michael's been __taking a deuce__ for two hours. I hope the toilet is okay."
+
+#### to bounce [verb]
+   + Translates to: _to leave_
+   + Example sentences:
+      + "Josh had to leave the party early. He forgot about tomorrow's exam and had to __bounce__."
+      + "It's getting pretty late. I should __bounce__ before I get too tired to drive."
+
+## I have never heard these before
+
+#### to burn the midnight oil
+   + Translates to: _to stay awake at night to work_
+   + Some might consider this "too fancy" to use in conversation, but I think most would understand it
+   + Example sentences:
+      + "I am totally not prepared for the exam tomorrow. I guess I have to __burn the midnight oil__ to give myself any chance of success."
+      + "Taliyah has been exhausted lately. She's __burning the midnight oil__ every night to pass her classes."
+
+# Miscellaneous
+
+## Pronouncing years
+   + Years of four numbers are often pronounced by separating the first two numbers from the last two
+      + When the last two numbers are both zeroes (00), it is pronounced "hundred"
+      + Examples:
+         + 2000: "two thousand"
+         + 1921: "nineteen twenty one"
+         + 1600: "sixteen hundred"
+
+### Pronouncing plural years
+   + The "nineteen twenties" (1920s) is the decade ranging from 1920 to 1929.
+   + The letter X is used to represent a number of unknown value
+      + You'll see this in science fiction movies and books.
+      + This allows writers to convey that the story just takes place "in the future" rather than in a specific year.
+      + Examples:
+         + 30XX: "thirty X X": could be any year from 3000 to 3099.
