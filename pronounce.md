@@ -4,3 +4,6 @@
 + ridiculous (rid-DICK-you-liss)
 + strengthen (STREN-thin)
 + characteristic (care-ick-turr-ISS-tick)
++ eliminate (ee-LIM-in-ate)
++ opportunity (opp-er-TOO-nit-tee) or end with (-nid-dee)
++ nagging (NAG-ing)
