@@ -111,6 +111,24 @@
       + "I decided not to move to Texas. The __trade-offs__ don't seem worth it. I could get a well-paying job there, but I don't think I could survive in the heat."
       + "My friend bought a really expensive boat, and he's seriously regretting it. He didn't consider the __trade-offs__ of owning a giant yacht. It's fun once in a while, but it's so expensive to maintain."
 
+#### to succeed [verb]
+   + [Click to view "succeed" in the dictionary](https://www.dictionary.com/browse/succeed)
+      + Friendly definition:
+         + (1) _to find success, to accomplish_
+         + (2) to succeed something means _to come next after something_
+   + Example sentences:
+      + (1) "She will __succeed__ as long as she works hard and makes the right decisions for her company."
+      + (2) "Since Joshua's reputation is up in flames, Ricardo is __succeeding__ him as the most popular kid in school."
+
+#### to secede [verb]
+   + [Click to view "secede" in the dictionary](https://www.dictionary.com/browse/secede)
+      + Friendly definition: _to leave formally from an alliance or association_
+   + Used in politics to describe a group of people in a country who want to declare independence from said country.
+   + It can still be used for non-political matters, even if it sounds a bit dramatic and formal. It gets the message across!
+   + Example sentences:
+      + "In the US Civil War, the southern states __seceded__, declaring themselves independent of the northern states due to conflicting ideas. Suddenly, you were no longer simply 'American.' You were either from the North or from the South."
+      + "I can't believe half of her friend group is __seceding__ after they heard the rumors about her. At least she still has half of the loyal ones until the rumors die down."
+
 # Phrases / Idioms
 
 ## Fundamental
@@ -393,6 +411,14 @@ Casual language. Widely understood. Less appropriate for formal conversations.
    + Mostly used for verbal communication. Doesn't really make sense to describe someone who takes a while to text back
    + Example sentences:
       + "Michelle is pissed at her boyfriend. Apparently when she accused him of cheating on her, a __cat got his tongue__. She thinks his hesitation means he's hiding something."
+
+#### "to have something down to an art" or "to a fine art" [phrase]
+   + Translates to: _to do something skillfully or efficiently often thanks to experience_
+   + This is to do something so well that it appears artful or sophisticated
+   + A more casual version is "to have something down to a T." Just pronounced _tee_.
+   + Example sentences:
+      + "Terry's got parking __down to a fine art__. He can park his car into spaces you wouldn't believe."
+      + "Alex has got graphic design __down to a T__. He can make fifty gorgeous designs in a single day."
 
 ## Slang (More exotic language)
 
