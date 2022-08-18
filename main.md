@@ -103,6 +103,14 @@
       + "Letting myself eat an entire box of cookies has been a major __setback__ to my weight loss."
       + "The team losing their star player is definitely going to be a __setback__. They have no chance of winning now."
 
+#### trade-off [noun]
+   + [Click to view "trade-off" in the dictionary](https://www.dictionary.com/browse/trade-off)
+      + Friendly definition: _an exchange of one thing for another, typically of equal (but opposite) value_
+   + The trade-offs of an action are usually described as "these bad things will happen, _but_ these good things will happen, too." Or vice-versa.
+   + Example sentences:
+      + "I decided not to move to Texas. The __trade-offs__ don't seem worth it. I could get a well-paying job there, but I don't think I could survive in the heat."
+      + "My friend bought a really expensive boat, and he's seriously regretting it. He didn't consider the __trade-offs__ of owning a giant yacht. It's fun once in a while, but it's so expensive to maintain."
+
 # Phrases / Idioms
 
 ## Fundamental
@@ -380,15 +388,15 @@ Casual language. Widely understood. Less appropriate for formal conversations.
       + "You're not going to drive one hundred miles per hour through this neighborhood? What are you, __chicken__?"
       + "No, I'm not __chickening out.__ I refuse because it's very dangerous and illegal."
 
-## Exotic
-
-Rare, but usually acceptable in casual conversation
-
 #### cat got your tongue [idiom]
    + Used toward someone who suddenly struggles to speak
    + Mostly used for verbal communication. Doesn't really make sense to describe someone who takes a while to text back
    + Example sentences:
       + "Michelle is pissed at her boyfriend. Apparently when she accused him of cheating on her, a __cat got his tongue__. She thinks his hesitation means he's hiding something."
+
+## Slang (More exotic language)
+
+Rare, but usually acceptable in casual conversation
 
 #### to take a deuce [verb]
    + Translates to: _to poop_
@@ -401,6 +409,13 @@ Rare, but usually acceptable in casual conversation
    + Example sentences:
       + "Josh had to leave the party early. He forgot about tomorrow's exam and had to __bounce__."
       + "It's getting pretty late. I should __bounce__ before I get too tired to drive."
+
+#### to trash something [verb]
+   + [Click to view "trash" in the dictionary](https://www.dictionary.com/browse/trash)
+      + Friendly definition: _to destroy or damage something_ ___often out of anger or protest___
+   + Example sentences:
+      + "His girlfriend was pissed that he broke up with her on her birthday, so she __trashed__ his living room. Now he has to replace his brand-new TV."
+      + "I thought I could throw a party without my parents finding out, but the place is totally __trashed__! There's no way I can clean all this up by the time they get back."
 
 ## I have never heard these before
 
