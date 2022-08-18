@@ -30,3 +30,31 @@
    + go down in flames
    + setback
    + 1900s, 1920s, etc.
+
+### 8/7
+   + trade-off
+   + to trash, to be trashed
+
+### 8/8
+   + down to an art, down to a T
+   + succeeded
+   + seceded
+
+### 8/10
+   + mechanical
+   + to rock
+   + bummer -> to bum out
+   + still / yet / n????????
+
+### 8/12
+   + under control
+   + yet another
+   + she herself / I myself / he himself
+   + by / at a time
+   + ago
+   + spending spree
+   + carried away
+
+### 8/15
+   + down the road
+   + out of th... I forgot
