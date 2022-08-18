@@ -129,6 +129,85 @@
       + "In the US Civil War, the southern states __seceded__, declaring themselves independent of the northern states due to conflicting ideas. Suddenly, you were no longer simply 'American.' You were either from the North or from the South."
       + "I can't believe half of her friend group is __seceding__ after they heard the rumors about her. At least she still has half of the loyal ones until the rumors die down."
 
+#### mechanical [adjective]
+   + [Click to view "mechanical" in the dictionary](https://www.dictionary.com/browse/mechanical)
+      + Friendly definition: _controlled by a machine, caused by a machine, resembling a machine_
+   + Example sentences:
+      + "Joaquin paints with __mechanical__ precision. His art looks almost like photographs."
+         + Joaquin is a masculine Spanish name pronounced _who-ahh-KEEN_
+      + "Before electricity was discovered, engineers built big __mechanical__ computers. They were made of moving parts that could solve basic math and logic problems."
+
+#### to rock [verb]
+   + [Click to view "rock" in the dictionary](https://www.dictionary.com/browse/rock)
+      + Friendly definition: _to move "from side to side"_
+   + Usually describes <abbr title="to move in repeatable patterns">oscillating</abbr> motions, like from left to right
+   + [A ship rocking during a storm](https://www.youtube.com/watch?v=VYVripa77lI) as it continuously "rolls" left to right 
+   + Example sentences:
+      + "When I go canoeing, I hate when people __rock__ the boat. It scares me every time, even if I know it won't tip over."
+      + "Ben can't hear you. He's __rocking__ in his chair, so he's probably listening to music."
+
+#### to bum someone out [verb]
+   + [Click to view "bum" in the dictionary](https://www.dictionary.com/browse/bum)
+      + Friendly definition: _to make someone sad and disappointed_
+   + Example sentences:
+      + "All this rain is really __bumming me out__. I was planning on enjoying the sun today."
+      + "Every time I talk to Abraham, he's in a bad mood. It __bums me out__ and ruins _my_ mood. If I want to have a happy day, I have to avoid talking to him."
+
+#### still [adverb]
+   + [Click to view "still" in the dictionary](https://www.dictionary.com/browse/still)
+      + Friendly definition:
+         + (1) _as being done previously_
+         + (2) _nevertheless_ (shares this definition with "yet")
+         + (3) _without sound or movement_
+   + Example sentences:
+      + (1) "Martha has been in the bathroom for six hours. I can't believe she's __still__ in there."
+      + (1) "Do you __still__ play golf? I know you used to play back in high school."
+      + (2) "No matter what you say, you can't convince Matthew to eat healthy foods. He'll __still__ refuse as he's always done."
+      + (2) "Even if the next iPhone costs a million dollars, thousands of people will __still__ buy it. Nothing will stop them."
+      + (3) "When I drink coffee, it's impossible for me to sit __still__. I can't stop moving until the caffeine wears off."
+      + (3) "Being on a lake in the morning is so peaceful. Everything is __still__ and quiet. It looks like you're inside a painting."
+
+#### yet [adverb]
+   + [Click to view "yet" in the dictionary](https://www.dictionary.com/browse/yet)
+      + Friendly definition:
+         + (1) _at the present time; now_
+         + (2) _continuing to a particular time_
+         + (3) _in addition; again_
+         + (4) as a [conjunction], _nevertheless_ (shares this definition with "still")
+            + In this usage, _still_ is more common; _yet_ sounds more formal and dramatic.
+   + Example sentences:
+      + (1) "Even if you're ready to go, don't leave __yet__. We have to double check that we have everything."
+      + (1) "Don't clap __yet__! The song isn't over. This is a moment of silence to build tension."
+      + (2) "Mark hasn't arrived to the party __yet__. I wonder if he had a change of plans."
+      + (2) "The movie has __yet__ to start. Even though Mark is late, he won't miss much by the time he gets here."
+      + (3) "I can't believe that guy is having __yet__ another slice of pizza. He's already eaten fifteen of them."
+      + (3) "I thought I got rid of all the spiders in my basement, but I found __yet__ another today."
+      + (4) "Paul said he was sick, and __yet__ he came to class today. He better not be <abbr title="carrying a disease that can spread by touch">contagious</abbr>."
+
+#### by, at, on [prepositions]
+   + [Click to view "by" in the dictionary](https://www.dictionary.com/browse/by)
+   + [Click to view "at" in the dictionary](https://www.dictionary.com/browse/at)
+      + Friendly definitions:
+         + __by__: _not later than; at or before_
+         + __at__ and __on__: _indicates a specific time_
+   + Example sentences:
+      + "My homework is due __by__ next Wednesday. I have a lot of time, so I shouldn't need to do the entire thing __on__ Tuesday night like last time."
+      + "Marcus said he'd like to own a boat __by__ the time he's 21. He heard of that millionaire who purchased their first yacht __at__ 19."
+
+#### ago [adjective/adverb]
+   + [Click to view "ago" in the dictionary](https://www.dictionary.com/browse/ago)
+      + Friendly definition: _in the past_
+   + Example sentences:
+      + "It's been long since I last read through an entire book. The last time must have been two years __ago__."
+      + "Finding a package on my doorstep was a nice surprise. I ordered something online a while __ago__ and since forgot about it."
+
+#### spree [noun]
+   + [Click to view "spree" in the dictionary](https://www.dictionary.com/browse/spree)
+      + Friendly definition: _a period of indulgence or a particular wish_
+   + Example sentences:
+      + "After avoiding candy all year, Richard is planning an eating __spree__ on Halloween. He wants to eat nothing but candy all day for a week."
+      + "I have to be careful of losing myself on a spending __spree__. Once I buy something I enjoy, it makes me want to spend more money, and it can turn into a huge problem."
+
 # Phrases / Idioms
 
 ## Fundamental
@@ -362,6 +441,25 @@ Appropriate for all types of conversation.
          + Literally: a capitol building was destroyed by fire
          + Figuratively: the government as a system was destroyed
 
+#### under control [idiom]
+   + Translates to: _to be controlled and managed with success_
+   + The opposite would be _out of control_
+   + Example sentences:
+      + "It's important to keep a fire __under control__. Otherwise, it could spread and cause serious damage."
+      + "I can't keep my cat __under control__. She causes a new mess every day that takes me hours to clean up."
+
+#### to be/get carried away [idiom]
+   + Translates to: _to lose control over oneself out of excitement_
+   + Example sentences:
+      + "When I do chores around the house, it's so easy to __get carried away__. I'll look at the clock and realize I'd been cleaning for ten hours straight."
+      + "He got so __carried away__ eating his candy that he ate all five pounds of it in one sitting. He was sick for the next five days."
+
+#### down the road [phrase]
+   + Translates to: _far into the future_
+   + Example sentences:
+      + "I'll purchase an expensive car sometime __down the road__. I would definitely wait until I could afford the insurance, though."
+      + "Five years __down the road__, the downtown area will probably look entirely different, and hopefully for the better."
+
 ## Comfortable
 
 Casual language. Widely understood. Less appropriate for formal conversations.
@@ -392,7 +490,7 @@ Casual language. Widely understood. Less appropriate for formal conversations.
       + "Jennifer said she's __not in the mood__, so I don't think she's going to come to the party."
       + "__I'm down__ to go to the restaurant as long as I can order whatever I want."
 
-#### to be bananas
+#### bananas [adjective]
    + Translates to: _to be unbelievable_
    + Example sentences:
       + "I can't believe I have to pay twenty dollars for three strawberries. This is __bananas.__"
