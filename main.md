@@ -1,4 +1,4 @@
-# Plain word definitions
+# Plain definitions (no idioms)
 
 #### casual [adjective]
    + [Click to view "casual" in the dictionary](https://www.dictionary.com/browse/casual)
@@ -145,6 +145,8 @@
    + Example sentences:
       + "When I go canoeing, I hate when people __rock__ the boat. It scares me every time, even if I know it won't tip over."
       + "Ben can't hear you. He's __rocking__ in his chair, so he's probably listening to music."
+
+> _to rock_ is also in the Slang section
 
 #### to bum someone out [verb]
    + [Click to view "bum" in the dictionary](https://www.dictionary.com/browse/bum)
@@ -540,6 +542,16 @@ Rare, but usually acceptable in casual conversation
    + Example sentences:
       + "His girlfriend was pissed that he broke up with her on her birthday, so she __trashed__ his living room. Now he has to replace his brand-new TV."
       + "I thought I could throw a party without my parents finding out, but the place is totally __trashed__! There's no way I can clean all this up by the time they get back."
+
+#### to rock [verb]
+   + Translates to:
+      + (1) "Let's rock" or "Let's rock and roll" means _"Let's leave"_
+      + (2) to rock something is _to wear something well, often clothing_
+   + Example sentences:
+      + (1) "Come on, __let's rock__. I've been ready to leave for twenty minutes."
+      + (2) "You look great! You're rocking that sweater. Where'd you get it?"
+
+> _to rock_ is also in the Plain Definitions section
 
 ## I have never heard these before
 
