@@ -59,8 +59,7 @@
    + down the road
    + out of th... I forgot
 
-### next time
-   + Can she hover over _oscillating?_
-   + The opposite of _under control_ is _out of control_
-   + Which definition of _by_ do you want?
-   + vs, versus?
+### 8/24
+   + pull out
+   + pullout/turnout signs
+   + present, present, present

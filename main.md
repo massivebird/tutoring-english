@@ -210,6 +210,41 @@
       + "After avoiding candy all year, Richard is planning an eating __spree__ on Halloween. He wants to eat nothing but candy all day for a week."
       + "I have to be careful of losing myself on a spending __spree__. Once I buy something I enjoy, it makes me want to spend more money, and it can turn into a huge problem."
 
+#### to pull out of somewhere [verb]
+   + [Click to view "pullout" in the dictionary](https://www.dictionary.com/browse/pullout)
+      + Friendly definition: ___to leave,___ _especially when driving a vehicle_
+   + Especially when driving a vehicle, the opposite is to "pull into somewhere," which means _to enter_
+   + Example sentences:
+      + "My friends hate driving to my house because it's so difficult to __pull out__ of my driveway. They're always scared that their car will reverse into the ditch."
+      + "You have to be careful __pulling out__ of your parking spot. You could hit someone that you didn't see around the corner."
+
+#### turnout / pullout [noun]
+   + [Click to view "turnout" in the dictionary](https://www.dictionary.com/browse/turnout)
+      + Friendly definition: _space adjacent to a road where a car may park or pull into_
+   + Example sentences:
+      + "'Slow traffic use __turnout__' signs tell slow drivers to pull into __turnouts__ next to the road. It allows the faster traffic behind them to pass."
+      + "My car was breaking down, so I pulled into the __turnout__ to see what was wrong. I'm glad I didn't have to stop in the middle of the road."
+
+#### to present [verb]
+   + ___Pronounced pruh-ZENT___
+   + [Click to view "present" in the dictionary](https://www.dictionary.com/browse/present)
+      + Friendly definition: _to show; to bring to one's attention; to make a gift to_
+   + Example sentences:
+      + "I have to __present__ my project in class today. I'm bad at public speaking, so I'm feeling a little nervous."
+      + "The waitress __presented__ the bill after our meal, and I was surprised by how inexpensive it was. I could afford to pay for all five of our dinners myself."
+
+#### present [noun]
+   + ___Pronounced PREZ-int___
+   + [Click to view "present" in the dictionary](https://www.dictionary.com/browse/present)
+      + Friendly definition:
+         + (1) now; the period of time that is currently happening
+         + (2) a gift
+   + Example sentences:
+      + (1) "The __present__ lies between the past and the future. It is the moment in which we are currently living. The __present__ is always right now."
+      + (1) "The phrase 'there's no time like the __present__' expresses that the best time to do something is right now. People say this when they're hesitant to do something, but end up doing it."
+      + (2) "I got a lot of __presents__ for my birthday last year. It was mostly my cousins sending me more candles like the year before."
+      + (2) "We don't celebrate half-birthdays, but that doesn't stop Brenda from asking everyone for __presents__ and cake every year for hers."
+
 # Phrases / Idioms
 
 ## Fundamental
